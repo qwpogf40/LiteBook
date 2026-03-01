@@ -36,3 +36,9 @@ If you find any security vulnerabilities, please report them by opening an issue
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## About This Project
+
+This project was developed with assistance from AI tools (GitHub Copilot/ChatGPT/etc.) 
+for learning and prototyping purposes. The architecture, design decisions, and core 
+concepts are human-driven, with AI used for code generation and optimization.
